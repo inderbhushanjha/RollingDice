@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RollingDice/static/css/main.6fad9e91.css",
+    "main.js": "/RollingDice/static/js/main.4d51f1a9.js",
+    "static/js/787.1d01f48b.chunk.js": "/RollingDice/static/js/787.1d01f48b.chunk.js",
+    "index.html": "/RollingDice/index.html",
+    "main.6fad9e91.css.map": "/RollingDice/static/css/main.6fad9e91.css.map",
+    "main.4d51f1a9.js.map": "/RollingDice/static/js/main.4d51f1a9.js.map",
+    "787.1d01f48b.chunk.js.map": "/RollingDice/static/js/787.1d01f48b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fad9e91.css",
+    "static/js/main.4d51f1a9.js"
+  ]
+}
